@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PowerSugarPellet_0: 997336674766961299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

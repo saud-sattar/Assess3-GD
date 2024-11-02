@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SugarPellet_0: -1310752820466935978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

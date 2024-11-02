@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TeaBagBonus_0: -8534913237402536450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
